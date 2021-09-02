@@ -1,0 +1,5 @@
+Programı tamamen ben tek başıma hazırladım
+Source dosyalarını android sitesinden almaktayız
+https://developer.android.com/studio/command-line/adb
+
+Program izin olmadan hiçbirşekilde kullanılamaz.
